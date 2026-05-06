@@ -2,7 +2,7 @@
 
 Personal portfolio site. Software Engineer · Android / Full-Stack / Mobile.
 
-**Live:** https://darshok.github.io/
+**Live:** [https://darshok.github.io/](https://darshok.github.io/portfolio/)
 
 ## Stack
 
