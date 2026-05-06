@@ -2,7 +2,7 @@
 
 Personal portfolio site. Software Engineer · Android / Full-Stack / Mobile.
 
-**Live:** [https://darshok.github.io/](https://darshok.github.io/portfolio/)
+**Live:** [https://darshok.github.io/portfolio/](https://darshok.github.io/portfolio/)
 
 ## Stack
 
@@ -22,6 +22,7 @@ index.html              # Entry; loads React + mounts <SystemsPortfolio />
 portfolios/
   data.js               # Content (experience, skills, projects, etc.)
   systems.jsx           # SystemsPortfolio component
+assets/
 ```
 
 ## Local development
