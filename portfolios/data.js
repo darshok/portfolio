@@ -13,7 +13,7 @@ window.DANIEL = {
 
   about: [
     "With a Master’s degree and a proactive mindset, I focus on shipping reliable Android and Full-Stack solutions while staying ahead of industry standards. I am currently exploring AI to make my work more efficient and deliver faster, higher-quality results.",
-    "Outside of work, I produce and compose tracks under the alias Kouzen (available on all major streaming platforms) and enjoy road and off-road motorcycle routes."
+    "I thrive in collaborative settings and value fostering a supportive, positive culture within my teams. When I'm not coding, I produce music under the alias Kouzen, explore road and off-road motorcycle routes, and fuel my curiosity through sports, reading, and cinema."
   ],
 
   strengths: [
