@@ -198,7 +198,7 @@ function SystemsPortfolio() {
                 textDecoration: 'none',
                 fontWeight: 600,
               }}>CONTACT →</a>
-              <a href={v.linkedinUrl} style={{
+              <a href={v.cvUrl} download="Daniel_Fenollar_CV.pdf" target="_blank" rel="noreferrer" style={{
                 flex: 1,
                 border: `1px solid ${SystemsStyles.rule}`,
                 color: SystemsStyles.ink,
@@ -207,7 +207,7 @@ function SystemsPortfolio() {
                 letterSpacing: '0.08em',
                 textAlign: 'center',
                 textDecoration: 'none',
-              }}>LINKEDIN</a>
+              }}>CV.PDF</a>
             </div>
           </div>
         </div>

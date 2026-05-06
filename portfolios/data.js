@@ -6,13 +6,13 @@ window.DANIEL = {
   github: "github.com/darshok",
   linkedinUrl: "https://www.linkedin.com/in/daniel-fenollar-onrubia",
   githubUrl: "https://github.com/darshok",
-  cvUrl: "#",
+  cvUrl: "assets/daniel_europass_cv.pdf",
   email: "daniel.fo.96@gmail.com",
 
   hero: "I build high-quality software through transparency and rapid iteration — leveraging a strong foundation in Software Engineering to turn open feedback into better products and faster deployments.",
 
   about: [
-    "With a Master’s degree and a proactive mindset, I focus on shipping reliable Android and Full-Stack solutions while staying ahead of industry standards.",
+    "With a Master’s degree and a proactive mindset, I focus on shipping reliable Android and Full-Stack solutions while staying ahead of industry standards. I am currently exploring AI to make my work more efficient and deliver faster, higher-quality results.",
     "Outside of work, I produce and compose tracks under the alias Kouzen (available on all major streaming platforms) and enjoy road and off-road motorcycle routes."
   ],
 
