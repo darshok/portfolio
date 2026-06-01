@@ -6,14 +6,14 @@ window.DANIEL = {
   github: "github.com/darshok",
   linkedinUrl: "https://www.linkedin.com/in/daniel-fenollar-onrubia",
   githubUrl: "https://github.com/darshok",
-  cvUrl: "assets/daniel_europass_cv.pdf",
+  cvUrl: "assets/daniel_fenollar_cv.pdf",
   email: "daniel.fo.96@gmail.com",
 
   hero: "I build high-quality software through transparency and rapid iteration — leveraging a strong foundation in Software Engineering to turn open feedback into better products and faster deployments.",
 
   about: [
-    "With a Master’s degree and a proactive mindset, I focus on shipping reliable Android and Full-Stack solutions while staying ahead of industry standards. I am currently exploring AI to make my work more efficient and deliver faster, higher-quality results.",
-    "I thrive in collaborative settings and value fostering a supportive, positive culture within my teams. When I'm not coding, I produce music under the alias Kouzen, explore road and off-road motorcycle routes, and fuel my curiosity through sports, reading, and cinema."
+    "With an IT degree, a Master’s in Software Development, and over 5 years of experience crafting high-quality Android solutions, I bring a deeply technical yet adaptive approach to engineering. I am an honest, assertive, and fast-learning professional who pairs a results-driven mindset with a focus on shipping reliable software. Currently, I am also exploring AI integration to optimize my workflow and deliver faster, higher-quality results.",
+    "I thrive in collaborative environments, where I actively work to foster teamwork and maintain a positive, supportive culture. When I'm not coding, I produce music under the alias Kouzen, explore road and off-road motorcycle routes, and fuel my curiosity through sports, reading, and cinema."
   ],
 
   strengths: [
@@ -52,7 +52,7 @@ window.DANIEL = {
       company: "TMC España SL",
       client: "Banking Domain",
       role: "Android Developer",
-      period: "April 2025 — Present",
+      period: "April 2025 — June 2026",
       location: "Valencia",
       summary: "Building a next-generation banking application, managing the full process from design and planning to feature implementation.",
       bullets: [
